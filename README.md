@@ -2,7 +2,7 @@
 #### My name is Thiago Kühl and i'm a Jr. Infrastructure Analyst. I'm from Brazil, living in São Paulo and currently working at C6 Bank.
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-kuhl&layout=compact)](https://github.com/thiago-kuhl&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-kuhl&layout=compact)](https://github.com/thiago-kuhl/)
 
 <a href="https://github.com/Thiago-Kuhl/fin-family-app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thiago-kuhl&repo=fin-family-app&theme=darcula" />
