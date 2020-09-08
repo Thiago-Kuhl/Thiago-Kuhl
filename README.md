@@ -2,18 +2,16 @@
 #### My name is Thiago Kühl and i'm a Jr. Infrastructure Analyst. I'm from Brazil, living in São Paulo and currently working at C6 Bank.
 
 ## &#x1f4c8; GitHub Stats
-<!--
-<a href="https://github.com/Thiago-Kuhl/Thiago-Kuhl">
+<a href="https://github.com/Thiago-Kuhl?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-kuhl&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/Thiago-Kuhl/Thiago-Kuhl">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thiago-kuhl&show_icons=true&count_private=true&theme=radical />
+<a href="https://github.com/Thiago-Kuhl?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thiago-kuhl&show_icons=true&count_private=true&theme=darcula" />
 </a>
--->
+
 <a href="https://github.com/Thiago-Kuhl/fin-family-app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thiago-kuhl&repo=fin-family-app&theme=darcula" />
 </a>
-
 
 <a href="https://github.com/Thiago-Kuhl/fin-family-backend">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thiago-kuhl&repo=fin-family-backend&theme=darcula" />
